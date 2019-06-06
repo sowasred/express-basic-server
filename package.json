@@ -2,6 +2,10 @@
   "name": "basic-node-server",
   "version": "1.0.0",
   "description": "demonstration of basic express server",
+  "version": "1.0.0",
+  "engines": {
+    "node": "11.13.0"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
